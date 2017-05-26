@@ -1,0 +1,95 @@
+body
+{
+	font-style: verdana;
+margin: 0;
+}
+.top
+{
+background-color: #A3F7B5;
+height: 90px;
+width: 100%;
+position: fixed;
+display: flex;
+flex-direction: row-reverse;
+
+line-height: 90px;
+}
+.t
+{
+padding-right: 600px;
+font-size: 50px;
+color: #66A182;
+}
+.b
+{
+	text-align: center;
+	transition: 0.6s;
+padding-right: 30px;
+font-size: 35px;
+color: #40c9a2;
+background-color: #A3F7B5;
+width: 90px;
+}
+.b:hover 
+{
+
+padding-right: 30px;
+font-size: 35px;
+color: #A3F7B5;
+background-color: #40c9a2;
+}
+.image
+{
+position :static;
+background-attachment: fixed;
+height: 900px;
+width: 100%;
+background-image:url("https://s-media-cache-ak0.pinimg.com/originals/f7/0d/21/f70d2141e4648e8e0562deaa5648dc10.jpg");
+}
+.button
+{
+
+line-height: 40px;
+font-size: 30px;
+
+left: 0;
+    
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+.ha
+{
+height: 40px;
+width: 200px;
+border: 3px;
+transition: 0.5s;
+color: #499f68;
+}
+.ha:hover 
+{
+background-color:#499f68;
+color: white;
+}
+.name
+{
+color: #b9e3c6;
+display: inline-block;
+font-size: 50px;
+}
+.q
+{
+color: #A3F7B5;
+}
+.cont
+{
+	padding-top: 600px;
+	color: #40c9a2;
+}
+.m
+{
+color: #499f68;
+}
+
